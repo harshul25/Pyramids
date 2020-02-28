@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B621B517A7545C63A37F037DC2504EC026B6B781",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B621B517A7545C63A37F037DC2504EC026B6B781" : 9223372036854775807,
+    "5EE1DDC4DE316C28C0C83E4EAD2331C6B7200843" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2B1FF9E-3DD7-4A6C-BE3B-2A24AF61D849",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B621B517A7545C63A37F037DC2504EC026B6B781" : "Pyramids\/",
+    "5EE1DDC4DE316C28C0C83E4EAD2331C6B7200843" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pyramids",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pyramids.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/harshul25\/Pyramids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5EE1DDC4DE316C28C0C83E4EAD2331C6B7200843"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:harshul25\/Pyramids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B621B517A7545C63A37F037DC2504EC026B6B781"
+    }
+  ]
+}
